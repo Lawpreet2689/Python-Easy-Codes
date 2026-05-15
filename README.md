@@ -1,4 +1,5 @@
 Python Easy Codes 🚀
+
 Beginner-Friendly Mini Projects in Python
 
 Welcome to Python Easy Codes — a collection of simple, fun, and practical Python mini projects made for beginners who are learning programming without frying their brain cells on Day 1 💀
