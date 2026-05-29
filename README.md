@@ -1,4 +1,4 @@
-# Python Easy Codes 🚀
+# Python Easy Codes 
 
 ## Beginner-Friendly Mini Projects in Python
 
@@ -15,7 +15,7 @@ This repo got you covered.
 
 ---
 
-# 📌 What's Inside?
+#  What's Inside?
 
 This repository contains beginner-friendly Python projects with:
 
@@ -36,11 +36,11 @@ Projects range from:
 
 ---
 
-# 🧠 Why This Repository Exists
+#  Why This Repository Exists
 
 Most beginner tutorials be like:
 
-> “This is super easy 😊”
+> “This is super easy”
 
 Then proceeds to summon 47 libraries, quantum physics, and emotional damage.
 
@@ -59,7 +59,7 @@ Just code you can actually understand.
 
 ---
 
-# 🛠 Requirements
+#  Requirements
 
 Make sure you have:
 
@@ -68,7 +68,7 @@ Make sure you have:
 
 ---
 
-# 📚 Beginner Tips
+#  Beginner Tips
 
 If you're new to Python:
 
@@ -85,11 +85,11 @@ Your code WILL break sometimes.
 
 That’s normal.
 
-Welcome to programming 💀
+Welcome to programming 
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions are welcome!
 
@@ -109,11 +109,11 @@ You can:
 
 ---
 
-# ⭐ Support
+#  Support
 
 If this repository helped you:
 
-- Give it a star ⭐
+- Give it a star 
 - Share it with friends
 - Follow for more beginner projects
 
@@ -121,7 +121,7 @@ It motivates a lot.
 
 ---
 
-# 💻 Made For Beginners
+#  Made For Beginners
 
 Coding doesn’t have to be scary.
 
